@@ -1,7 +1,5 @@
 # Open-Unmix Music Source Separation Project
 
-![Open-Unmix](https://sisec18.unmix.app/static/img/hero_header.4f28952.svg)
-
 ## Overview
 
 This project conducts an **experimental analysis of Open-Unmix hyperparameters**, a deep neural network for music source separation. Rather than implementing new models, this study systematically investigates how different hyperparameter configurations affect model performance, training time, and separation quality. The analysis focuses on understanding the impact of batch size, hidden size, samples per track, and LSTM directionality on the existing Open-Unmix architecture.
